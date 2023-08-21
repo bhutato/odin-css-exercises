@@ -1,0 +1,21 @@
+/* CLASSes */
+.odd{
+    font-family: Verdana, 'Deja Vu', sans-serif;
+    background-color: hsl(0, 88%, 82%);
+}
+
+.odd.three{
+    font-size: 24px;
+}
+
+/* IDs */
+#two{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
