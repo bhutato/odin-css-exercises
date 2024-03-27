@@ -21,3 +21,6 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 
 ## solution 1 (a bit worse)
 ![solution 1](https://imgur.com/R1SrBJv)
+
+## solution 2 (html reference from solution)
+![solution 2](./solution2.png)
